@@ -68,7 +68,7 @@ which can be downloaded from the following link https://www.apachefriends.org/es
 
 also to run laravel it is required composer which can be downloaded from the following link https://getcomposer.org/download/
 
-once installed this from the command console of our operating system we introduce the following command composer global require laravel/installer
+once installed this from the command console of our operating system we introduce the following command "composer global require laravel/installer"
 
 
 and then once executed all the above we copy the entire repository and replace in the htdoc folder
