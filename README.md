@@ -60,3 +60,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+the local xampp server was used for this project.
+which can be downloaded from the following link https://www.apachefriends.org/es/index.html
+
+
+also to run laravel it is required composer which can be downloaded from the following link https://getcomposer.org/download/
+
+once installed this from the command console of our operating system we introduce the following command composer global require laravel/installer
+
+
+and then once executed all the above we copy the entire repository and replace in the htdoc folder
+
+
+
